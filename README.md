@@ -1,35 +1,44 @@
-# Constra - Building Excellence
+# Constra - Free Bootstrap Construction Template
 
-Welcome to the Constra construction website repository! This project showcases Constra’s commitment to delivering top-quality construction services worldwide.
+## Overview
+Constra is a professional, responsive website template designed for builders, construction companies, and industrial production businesses. This template focuses on showcasing the team, current and recent projects, and services offered. Built with Bootstrap, Constra ensures a seamless experience across all modern devices.
 
-## Table of Contents
-- [Introduction](#introduction)
-- [Features](#features)
-- [Technologies Used](#technologies-used)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
+## Pages
 
-## Introduction
-Constra is a leading construction company specializing in home construction, remodels, design, and safety management. With over 1,789 projects completed across 44 countries, Constra is dedicated to excellence and strong partnerships.
+- **Homepage 1**
+- **Homepage 2**
+- **About**
+- **Services**
+- **Service Details**
+- **Projects**
+- **Project Details**
+- **Pricing**
+- **Team**
+- **Testimonials**
+- **News Left Sidebar**
+- **News Right Sidebar**
+- **News Details**
+- **FAQ**
+- **404**
+- **Typography**
+- **Contact**
 
 ## Features
-- **Responsive Design:** Seamlessly adapts to all devices for a consistent user experience.
-- **Service Pages:** Detailed descriptions of our construction services.
-- **Portfolio:** Showcases recent projects across various sectors.
-- **Contact Form:** Allows clients to easily get in touch with us.
-- **Newsletter Signup:** Stay updated with the latest news and projects.
+- **Responsive Design:** Optimized for desktops, tablets, and mobile devices.
+- **Multiple Homepage Layouts:** Choose between two different homepage designs to best fit your needs.
+- **Comprehensive Service Pages:** Detailed service and service details pages to showcase what you offer.
+- **Project Showcases:** Visual gallery and project detail pages to highlight your best work.
+- **Team and Testimonials:** Introduce your team and build trust with client testimonials.
+- **Blog with Sidebar:** News section with left and right sidebar options for articles and updates.
+- **Other Utility Pages:** Includes FAQ, 404 error page, and a contact form.
 
 ## Technologies Used
-- **Frontend:** HTML, CSS, JavaScript
-- **Backend:** Node.js, Express (or your chosen backend technology)
-- **Database:** MongoDB, MySQL (or your chosen database)
-- **Deployment:** [Hosting Platform] (e.g., Heroku, Netlify)
+- **Frontend:** HTML, CSS, JavaScript, Bootstrap
+- **Backend:** [NodeJs, Express]
+- **Database:** [MongoDb]
+- **Hosting:** [Domain]
 
 ## Installation
-To run this project locally, follow these steps:
-
 1. Clone the repository:
    ```bash
-   git clone https://github.com/YourUsername/constra-website.git
+   git clone https://github.com/yourusername/constra-construction-website.git
