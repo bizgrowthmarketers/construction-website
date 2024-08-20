@@ -41,4 +41,4 @@ Constra is a professional, responsive website template designed for builders, co
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/constra-construction-website.git
+   git clone https://github.com/bizgrowthmarketers/construction-website.git
